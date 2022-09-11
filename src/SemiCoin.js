@@ -92,7 +92,7 @@ function SemiCoin() {
           ))}
         </tbody>
       </table>
-      <button type="button" class="btn btn-primary" onClick={showMoreItems}>
+      <button type="button" style={{margin: "40px"}} class="btn btn-primary" onClick={showMoreItems}>
         Load More
       </button>
     </div>
